@@ -1,4 +1,6 @@
 ### Welcome to my Github profile 😄 
+![caption]( ![THE ONLY WAY TO LEARN A NEW PROGRAMMING LANGUAGE IS BY WRITING PROGRAMS IN IT](https://user-images.githubusercontent.com/61026156/150677003-da9fff89-fec3-48ff-9355-e465860f6470.gif)
+/ GIF)
 
 <!--
 **callmesword/callmesword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
