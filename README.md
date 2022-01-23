@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ### Currently coding in: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
