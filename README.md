@@ -1,5 +1,6 @@
 
-![Beige Illustrated Top High Paid Jobs Blog Banner](https://user-images.githubusercontent.com/61026156/151673348-6bbdecc5-acfa-4e3a-aa96-a01bda67928b.png)
+
+![github](https://user-images.githubusercontent.com/61026156/151674262-24d825a4-3ad9-4222-b2ed-bfe3fdf93f3e.gif)
 
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hlahyani)](https://github.com/mohouyizme/1337-readme)
