@@ -1,6 +1,6 @@
 ### Welcome to my Github profile 😄 
 
-![trimmed](https://user-images.githubusercontent.com/61026156/150702310-4048b90f-6b9b-4de3-8786-8ae46ea3d75b.gif)
+### ![trimmed](https://user-images.githubusercontent.com/61026156/150702310-4048b90f-6b9b-4de3-8786-8ae46ea3d75b.gif)
 <!--
 **callmesword/callmesword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hlahyani)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hlahyani)](https://github.com/mohouyizme/1337-readme)
 ### Currently coding in: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
