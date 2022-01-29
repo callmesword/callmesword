@@ -1,4 +1,7 @@
-![trimmed](https://user-images.githubusercontent.com/61026156/150702310-4048b90f-6b9b-4de3-8786-8ae46ea3d75b.gif)
+
+
+![WhatsApp Image 2021-10-16 at 23 11 45](https://user-images.githubusercontent.com/61026156/151660317-693d58dc-075e-4d1a-aa57-31ffc9e46e27.jpeg)
+
 <!--
 **callmesword/callmesword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
