@@ -1,6 +1,4 @@
-### Welcome to my Github profile 😄 
-
-### ![trimmed](https://user-images.githubusercontent.com/61026156/150702310-4048b90f-6b9b-4de3-8786-8ae46ea3d75b.gif)
+![trimmed](https://user-images.githubusercontent.com/61026156/150702310-4048b90f-6b9b-4de3-8786-8ae46ea3d75b.gif)
 <!--
 **callmesword/callmesword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
