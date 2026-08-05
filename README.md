@@ -4,9 +4,7 @@
   <h1>⚔️ Muhammedali Aliyev</h1>
   <h3>🛡️ Security Researcher &nbsp;·&nbsp; 🐍 Backend Developer &nbsp;·&nbsp; 🎯 CTF Player</h3>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=meinsoft&label=Profile%20Views&color=f0db4f&style=flat-square" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/meinsoft?label=Followers&style=flat-square&color=f0db4f" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/meinsoft?label=Stars&style=flat-square&color=f0db4f" alt="Stars"/>
+   
   </p>
 </div>
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
